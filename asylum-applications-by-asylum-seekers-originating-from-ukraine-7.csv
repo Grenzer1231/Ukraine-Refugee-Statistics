@@ -1,0 +1,1069 @@
+Year,Country of Asylum Code,Country of Asylum Name,Procedure Type,Application Type Code,Application Data Type,Number of Applications
+2000,ARG,Argentina,G,V,P,12
+2000,AUS,Australia,G,V,C,155
+2000,AUS,Australia,G,V,C,187
+2000,AUT,Austria,G,V,P,90
+2000,AZE,Azerbaijan,U,V,P,5
+2000,BEL,Belgium,G,V,P,1588
+2000,BLR,Belarus,G,V,P,5
+2000,BGR,Bulgaria,G,V,P,5
+2000,CAN,Canada,G,V,P,573
+2000,CZE,Czechia,G,V,C,121
+2000,CZE,Czechia,G,V,C,1144
+2000,DNK,Denmark,G,V,P,64
+2000,FIN,Finland,G,V,P,84
+2000,FRA,France,G,V,P,366
+2000,FRA,France,G,V,P,539
+2000,GBR,United Kingdom of Great Britain and Northern Ireland,G,V,C,770
+2000,DEU,Germany,G,V,P,512
+2000,DEU,Germany,G,V,P,128
+2000,HUN,Hungary,G,V,P,41
+2000,ISL,Iceland,G,V,P,7
+2000,ISL,Iceland,G,V,P,6
+2000,IRL,Ireland,G,V,P,248
+2000,ITA,Italy,G,V,P,22
+2000,LUX,Luxembourg,G,V,P,9
+2000,MEX,Mexico,U,V,P,5
+2000,NLD,Netherlands,G,V,P,218
+2000,NOR,Norway,G,V,P,131
+2000,POL,Poland,G,V,P,69
+2000,RUS,Russian Federation,G,V,P,5
+2000,ESP,Spain,G,V,P,306
+2000,SVK,Slovakia,G,V,P,5
+2000,SWE,Sweden,G,V,P,110
+2000,CHE,Switzerland,G,V,P,99
+2000,USA,United States of America,G,N,C,235
+2000,USA,United States of America,G,N,C,199
+2001,ARG,Argentina,G,V,P,12
+2001,AUS,Australia,G,V,C,101
+2001,AUS,Australia,G,V,C,114
+2001,AUT,Austria,G,V,P,191
+2001,AZE,Azerbaijan,U,V,P,5
+2001,BEL,Belgium,G,V,P,5
+2001,BEL,Belgium,G,V,P,576
+2001,CAN,Canada,G,V,P,344
+2001,CYP,Cyprus,U,V,P,23
+2001,CZE,Czechia,G,V,C,1250
+2001,CZE,Czechia,G,V,C,4416
+2001,DNK,Denmark,G,V,P,60
+2001,ECU,Ecuador,G,V,P,5
+2001,FIN,Finland,G,V,P,138
+2001,FRA,France,G,V,P,568
+2001,FRA,France,G,V,P,892
+2001,GBR,United Kingdom of Great Britain and Northern Ireland,G,V,C,440
+2001,DEU,Germany,G,V,P,678
+2001,DEU,Germany,G,V,P,115
+2001,GRC,Greece,G,V,P,6
+2001,HUN,Hungary,G,V,P,30
+2001,IRL,Ireland,G,V,P,376
+2001,ITA,Italy,G,V,P,68
+2001,LUX,Luxembourg,G,V,P,18
+2001,NLD,Netherlands,G,V,P,191
+2001,NOR,Norway,G,V,P,1027
+2001,POL,Poland,G,V,P,83
+2001,POL,Poland,G,V,P,144
+2001,RUS,Russian Federation,G,V,P,6
+2001,ESP,Spain,G,V,P,178
+2001,SVK,Slovakia,G,V,P,8
+2001,SVN,Slovenia,G,V,P,7
+2001,SWE,Sweden,G,V,P,332
+2001,CHE,Switzerland,G,V,P,153
+2001,USA,United States of America,G,N,C,307
+2001,USA,United States of America,G,N,C,246
+2002,AUS,Australia,G,V,C,62
+2002,AUS,Australia,G,V,P,35
+2002,AUT,Austria,G,V,P,418
+2002,BEL,Belgium,G,V,P,23
+2002,BEL,Belgium,G,V,P,211
+2002,BGR,Bulgaria,G,V,P,6
+2002,CAN,Canada,G,V,P,372
+2002,CYP,Cyprus,G,V,P,19
+2002,CZE,Czechia,G,V,C,899
+2002,CZE,Czechia,G,V,C,1674
+2002,DNK,Denmark,G,V,P,42
+2002,FIN,Finland,G,V,P,108
+2002,FRA,France,G,V,P,377
+2002,FRA,France,G,V,P,728
+2002,FRA,France,G,V,P,22
+2002,GBR,United Kingdom of Great Britain and Northern Ireland,G,V,C,365
+2002,DEU,Germany,G,V,P,621
+2002,DEU,Germany,G,V,P,77
+2002,GRC,Greece,G,V,P,5
+2002,HRV,Croatia,G,V,P,5
+2002,HRV,Croatia,U,V,P,5
+2002,HUN,Hungary,G,V,P,15
+2002,ISL,Iceland,G,V,P,5
+2002,IRL,Ireland,G,V,P,136
+2002,IRL,Ireland,G,V,P,351
+2002,LIE,Liechtenstein,G,V,P,9
+2002,LTU,Lithuania,G,V,P,5
+2002,LUX,Luxembourg,G,V,P,19
+2002,LVA,Latvia,G,V,P,5
+2002,MEX,Mexico,G,V,P,5
+2002,NLD,Netherlands,G,V,P,152
+2002,NOR,Norway,G,V,P,772
+2002,POL,Poland,G,V,P,101
+2002,POL,Poland,G,V,P,102
+2002,PRT,Portugal,G,V,P,5
+2002,ESP,Spain,G,V,P,67
+2002,SVK,Slovakia,G,V,P,47
+2002,SVN,Slovenia,G,V,P,13
+2002,SWE,Sweden,G,V,P,786
+2002,CHE,Switzerland,G,V,P,260
+2002,USA,United States of America,G,N,P,367
+2002,USA,United States of America,G,N,C,240
+2003,ARG,Argentina,G,V,P,6
+2003,AUS,Australia,G,V,C,22
+2003,AUS,Australia,G,V,P,16
+2003,AUT,Austria,G,V,P,471
+2003,BEL,Belgium,G,V,P,55
+2003,BEL,Belgium,G,V,P,115
+2003,BIH,Bosnia and Herzegovina,U,V,P,5
+2003,CAN,Canada,G,V,P,209
+2003,CYP,Cyprus,G,V,P,91
+2003,CYP,Cyprus,U,V,P,18
+2003,CZE,Czechia,G,V,P,5
+2003,CZE,Czechia,G,V,P,2044
+2003,DNK,Denmark,G,V,P,18
+2003,FIN,Finland,G,V,P,49
+2003,FRA,France,G,V,P,367
+2003,FRA,France,G,V,P,787
+2003,FRA,France,G,V,P,21
+2003,GBR,United Kingdom of Great Britain and Northern Ireland,G,V,P,337
+2003,DEU,Germany,G,V,P,299
+2003,DEU,Germany,G,V,P,58
+2003,GRC,Greece,G,V,P,6
+2003,HUN,Hungary,G,V,P,15
+2003,IRL,Ireland,G,V,P,124
+2003,IRL,Ireland,G,V,P,140
+2003,ITA,Italy,G,V,P,62
+2003,LIE,Liechtenstein,G,V,P,8
+2003,LTU,Lithuania,G,V,P,5
+2003,LUX,Luxembourg,G,V,P,30
+2003,NLD,Netherlands,G,V,P,85
+2003,NOR,Norway,G,V,P,101
+2003,POL,Poland,G,V,P,34
+2003,POL,Poland,G,V,P,85
+2003,PRT,Portugal,G,V,P,5
+2003,RUS,Russian Federation,G,V,P,5
+2003,ESP,Spain,G,V,P,50
+2003,SVK,Slovakia,G,V,P,73
+2003,SWE,Sweden,G,V,P,353
+2003,CHE,Switzerland,G,V,P,168
+2003,USA,United States of America,G,N,P,326
+2003,USA,United States of America,G,N,C,188
+2004,EGY,Egypt,U,V,P,6
+2004,ARG,Argentina,G,V,P,12
+2004,AUS,Australia,G,V,P,9
+2004,AUT,Austria,G,V,P,426
+2004,BEL,Belgium,G,V,P,36
+2004,BEL,Belgium,G,V,P,82
+2004,BIH,Bosnia and Herzegovina,U,V,P,5
+2004,BGR,Bulgaria,G,V,P,5
+2004,CAN,Canada,G,V,P,223
+2004,CYP,Cyprus,G,V,P,50
+2004,CYP,Cyprus,G,V,P,867
+2004,CZE,Czechia,G,V,P,1600
+2004,DNK,Denmark,G,V,P,21
+2004,FIN,Finland,G,V,P,32
+2004,FRA,France,G,V,P,573
+2004,FRA,France,G,V,P,665
+2004,FRA,France,G,V,P,96
+2004,GBR,United Kingdom of Great Britain and Northern Ireland,G,V,P,137
+2004,DEU,Germany,G,V,P,231
+2004,DEU,Germany,G,V,P,82
+2004,GRC,Greece,G,V,P,90
+2004,HUN,Hungary,G,V,P,5
+2004,HUN,Hungary,G,V,P,45
+2004,IRL,Ireland,G,V,P,74
+2004,IRL,Ireland,G,V,P,68
+2004,ITA,Italy,G,V,P,66
+2004,LIE,Liechtenstein,G,V,P,8
+2004,LUX,Luxembourg,G,V,P,12
+2004,MEX,Mexico,G,V,P,5
+2004,NLD,Netherlands,G,V,P,17
+2004,NOR,Norway,G,V,P,43
+2004,NZL,New Zealand,G,V,P,5
+2004,POL,Poland,G,V,P,41
+2004,POL,Poland,G,V,P,72
+2004,PRT,Portugal,G,V,P,6
+2004,RUS,Russian Federation,G,V,P,6
+2004,ESP,Spain,G,V,P,32
+2004,SVK,Slovakia,G,V,P,64
+2004,SVN,Slovenia,G,V,P,5
+2004,SWE,Sweden,G,V,P,211
+2004,CHE,Switzerland,G,V,P,102
+2004,USA,United States of America,G,N,P,100
+2004,USA,United States of America,G,N,C,154
+2005,ARG,Argentina,G,V,P,6
+2005,AUS,Australia,G,V,C,13
+2005,AUS,Australia,G,V,P,5
+2005,AUT,Austria,G,V,P,279
+2005,BEL,Belgium,G,V,P,31
+2005,BEL,Belgium,G,V,P,75
+2005,BLR,Belarus,G,V,P,6
+2005,BIH,Bosnia and Herzegovina,G,V,P,5
+2005,BGR,Bulgaria,G,V,P,5
+2005,CAN,Canada,G,V,P,202
+2005,CYP,Cyprus,G,V,P,58
+2005,CYP,Cyprus,G,V,P,587
+2005,CZE,Czechia,G,V,P,1020
+2005,DNK,Denmark,G,V,P,9
+2005,FIN,Finland,G,V,P,14
+2005,FRA,France,G,V,P,404
+2005,FRA,France,G,V,P,439
+2005,FRA,France,G,V,P,71
+2005,GBR,United Kingdom of Great Britain and Northern Ireland,G,V,P,63
+2005,DEU,Germany,G,V,P,132
+2005,DEU,Germany,G,V,P,63
+2005,GRC,Greece,G,V,P,268
+2005,HRV,Croatia,G,V,P,5
+2005,HUN,Hungary,G,V,P,7
+2005,HUN,Hungary,G,V,P,26
+2005,ISL,Iceland,G,V,P,5
+2005,IRL,Ireland,G,V,P,31
+2005,ITA,Italy,G,V,P,51
+2005,LIE,Liechtenstein,G,V,P,5
+2005,LUX,Luxembourg,G,V,P,16
+2005,NLD,Netherlands,G,V,P,44
+2005,NOR,Norway,G,V,P,20
+2005,POL,Poland,G,V,P,49
+2005,POL,Poland,G,V,P,84
+2005,RUS,Russian Federation,G,V,P,5
+2005,ESP,Spain,G,V,P,10
+2005,SVK,Slovakia,G,V,P,45
+2005,SVN,Slovenia,G,V,P,5
+2005,SWE,Sweden,G,V,P,93
+2005,CHE,Switzerland,G,V,P,47
+2005,USA,United States of America,G,N,P,77
+2005,USA,United States of America,G,N,C,221
+2006,AUS,Australia,G,A,C,13
+2006,AUS,Australia,G,N,P,11
+2006,AUT,Austria,G,NR,P,176
+2006,BEL,Belgium,G,A,P,12
+2006,BEL,Belgium,G,N,P,52
+2006,BLR,Belarus,G,N,P,6
+2006,CAN,Canada,G,N,P,207
+2006,CYP,Cyprus,G,A,P,105
+2006,CYP,Cyprus,G,N,P,144
+2006,CZE,Czechia,G,R,P,583
+2006,CZE,Czechia,G,N,P,571
+2006,DNK,Denmark,G,N,P,5
+2006,FIN,Finland,G,N,P,9
+2006,FRA,France,G,N,P,101
+2006,FRA,France,G,R,P,55
+2006,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,64
+2006,DEU,Germany,G,NA,P,99
+2006,DEU,Germany,G,R,P,31
+2006,GRC,Greece,G,N,P,35
+2006,HUN,Hungary,G,N,P,38
+2006,IRL,Ireland,G,A,P,27
+2006,IRL,Ireland,G,N,P,35
+2006,ISR,Israel,J,N,C,5
+2006,ITA,Italy,G,NR,P,46
+2006,LTU,Lithuania,G,N,P,5
+2006,LUX,Luxembourg,G,N,P,19
+2006,NLD,Netherlands,G,N,P,44
+2006,NOR,Norway,G,A,P,20
+2006,NOR,Norway,G,N,P,12
+2006,POL,Poland,G,A,P,47
+2006,POL,Poland,G,N,P,60
+2006,ROU,Romania,G,N,P,5
+2006,RUS,Russian Federation,G,N,P,10
+2006,ESP,Spain,G,N,P,6
+2006,SVK,Slovakia,G,N,P,32
+2006,SWE,Sweden,G,N,P,90
+2006,CHE,Switzerland,G,N,P,29
+2006,USA,United States of America,G,N,P,89
+2006,USA,United States of America,G,N,C,187
+2007,ARG,Argentina,G,N,P,5
+2007,AUS,Australia,G,A,C,8
+2007,AUS,Australia,G,N,P,8
+2007,AUT,Austria,G,N,P,182
+2007,BEL,Belgium,G,N,P,27
+2007,BRA,Brazil,G,N,P,5
+2007,CAN,Canada,G,N,P,174
+2007,CYP,Cyprus,G,A,P,46
+2007,CYP,Cyprus,G,N,P,59
+2007,CZE,Czechia,G,N,P,259
+2007,CZE,Czechia,G,N,P,293
+2007,DNK,Denmark,G,N,P,5
+2007,FIN,Finland,G,N,P,5
+2007,FRA,France,G,N,P,73
+2007,FRA,France,G,R,P,28
+2007,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,48
+2007,DEU,Germany,G,N,P,62
+2007,DEU,Germany,G,R,P,18
+2007,GRC,Greece,G,N,P,31
+2007,HUN,Hungary,G,N,P,19
+2007,IRL,Ireland,G,A,P,21
+2007,IRL,Ireland,G,N,P,26
+2007,ITA,Italy,G,N,P,26
+2007,LUX,Luxembourg,G,N,P,5
+2007,NLD,Netherlands,G,N,P,16
+2007,NOR,Norway,G,A,P,5
+2007,NOR,Norway,G,N,P,6
+2007,POL,Poland,G,A,P,38
+2007,POL,Poland,G,N,P,55
+2007,ROU,Romania,G,N,P,5
+2007,RUS,Russian Federation,G,N,P,20
+2007,ESP,Spain,G,N,P,5
+2007,SVK,Slovakia,G,N,P,36
+2007,SWE,Sweden,G,N,P,68
+2007,CHE,Switzerland,G,N,P,22
+2007,USA,United States of America,G,A,P,63
+2007,USA,United States of America,G,N,C,169
+2008,AUS,Australia,G,A,C,5
+2008,AUT,Austria,G,NR,P,139
+2008,BEL,Belgium,G,N,P,61
+2008,BLR,Belarus,G,N,P,10
+2008,CAN,Canada,G,N,P,187
+2008,CYP,Cyprus,G,A,P,22
+2008,CYP,Cyprus,G,N,P,16
+2008,CZE,Czechia,G,N,P,172
+2008,CZE,Czechia,G,N,P,323
+2008,DNK,Denmark,G,N,P,7
+2008,FIN,Finland,G,N,P,10
+2008,FRA,France,G,N,P,68
+2008,FRA,France,G,R,P,9
+2008,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,41
+2008,DEU,Germany,G,N,P,37
+2008,DEU,Germany,G,R,P,12
+2008,GRC,Greece,G,N,P,53
+2008,HUN,Hungary,G,N,P,5
+2008,IRL,Ireland,G,A,P,25
+2008,IRL,Ireland,G,N,P,20
+2008,ITA,Italy,G,N,P,14
+2008,LTU,Lithuania,G,N,P,5
+2008,LUX,Luxembourg,G,N,P,5
+2008,NLD,Netherlands,G,N,P,13
+2008,NOR,Norway,G,N,P,15
+2008,NOR,Norway,G,N,P,18
+2008,POL,Poland,G,A,P,14
+2008,POL,Poland,G,N,P,25
+2008,RUS,Russian Federation,G,N,P,19
+2008,ESP,Spain,G,N,P,5
+2008,SVK,Slovakia,G,N,P,32
+2008,SWE,Sweden,G,N,P,30
+2008,SWE,Sweden,G,N,P,60
+2008,CHE,Switzerland,G,N,P,29
+2008,USA,United States of America,G,N,P,44
+2008,USA,United States of America,G,N,C,138
+2009,AUS,Australia,G,A,C,5
+2009,AUS,Australia,G,N,P,5
+2009,AUT,Austria,G,NR,P,120
+2009,BEL,Belgium,G,N,P,33
+2009,BLR,Belarus,G,N,P,9
+2009,BGR,Bulgaria,G,R,P,8
+2009,CAN,Canada,G,N,P,162
+2009,CYP,Cyprus,G,A,P,49
+2009,CYP,Cyprus,G,N,P,25
+2009,CZE,Czechia,G,A,P,102
+2009,CZE,Czechia,G,N,P,220
+2009,DNK,Denmark,G,N,P,9
+2009,FIN,Finland,G,N,P,7
+2009,FRA,France,G,N,P,66
+2009,FRA,France,G,N,P,7
+2009,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,62
+2009,DEU,Germany,G,N,P,66
+2009,DEU,Germany,G,R,P,19
+2009,GRC,Greece,G,N,P,51
+2009,HRV,Croatia,G,N,P,5
+2009,HRV,Croatia,G,N,P,5
+2009,HUN,Hungary,G,N,P,9
+2009,IRL,Ireland,G,A,P,20
+2009,IRL,Ireland,G,N,P,17
+2009,ITA,Italy,G,N,P,18
+2009,LIE,Liechtenstein,G,N,P,5
+2009,NLD,Netherlands,G,N,P,18
+2009,NOR,Norway,G,N,P,18
+2009,NOR,Norway,G,N,P,27
+2009,POL,Poland,G,R,P,36
+2009,PRT,Portugal,G,N,P,5
+2009,ROU,Romania,G,NA,P,7
+2009,RUS,Russian Federation,G,N,P,10
+2009,ESP,Spain,G,N,P,8
+2009,SVK,Slovakia,G,N,P,13
+2009,SWE,Sweden,G,A,P,47
+2009,SWE,Sweden,G,N,P,139
+2009,CHE,Switzerland,G,N,P,29
+2009,USA,United States of America,G,N,P,76
+2009,USA,United States of America,G,N,C,187
+2010,ARG,Argentina,G,N,P,5
+2010,AUS,Australia,G,A,C,5
+2010,AUS,Australia,G,N,P,18
+2010,AUT,Austria,G,NR,P,82
+2010,BEL,Belgium,G,N,P,53
+2010,BEL,Belgium,G,N,P,18
+2010,BLR,Belarus,G,N,P,5
+2010,BGR,Bulgaria,G,N,C,5
+2010,CAN,Canada,G,N,P,122
+2010,CYP,Cyprus,G,N,P,42
+2010,CYP,Cyprus,G,N,P,13
+2010,CZE,Czechia,G,N,P,78
+2010,CZE,Czechia,G,N,P,141
+2010,DNK,Denmark,G,N,P,6
+2010,FIN,Finland,G,N,P,10
+2010,FRA,France,G,N,P,84
+2010,FRA,France,G,R,P,7
+2010,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,53
+2010,GEO,Georgia,G,NR,P,5
+2010,DEU,Germany,G,N,P,62
+2010,DEU,Germany,G,N,P,9
+2010,GRC,Greece,G,A,P,5
+2010,GRC,Greece,G,N,P,48
+2010,HUN,Hungary,G,N,P,9
+2010,IRL,Ireland,G,R,P,11
+2010,IRL,Ireland,G,N,P,5
+2010,IRL,Ireland,G,A,P,10
+2010,ITA,Italy,G,N,P,21
+2010,LUX,Luxembourg,G,N,P,6
+2010,MDA,Republic of Moldova,G,NR,P,14
+2010,NLD,Netherlands,G,N,P,24
+2010,NLD,Netherlands,G,R,P,6
+2010,NOR,Norway,G,N,P,23
+2010,NOR,Norway,G,N,P,9
+2010,POL,Poland,G,N,P,45
+2010,ROU,Romania,G,NR,P,9
+2010,RUS,Russian Federation,G,N,P,17
+2010,RUS,Russian Federation,G,N,P,6
+2010,ESP,Spain,G,N,P,5
+2010,SVK,Slovakia,G,N,P,20
+2010,SWE,Sweden,G,N,P,118
+2010,SWE,Sweden,G,N,P,82
+2010,CHE,Switzerland,G,N,P,14
+2010,CHE,Switzerland,G,R,P,5
+2010,USA,United States of America,G,A,P,69
+2010,USA,United States of America,G,N,C,195
+2011,ARG,Argentina,G,N,P,6
+2011,AUS,Australia,G,N,C,10
+2011,AUS,Australia,G,N,P,9
+2011,AUT,Austria,G,NR,P,63
+2011,BEL,Belgium,G,N,P,62
+2011,BEL,Belgium,G,R,P,12
+2011,CAN,Canada,G,N,P,130
+2011,CYP,Cyprus,G,A,P,6
+2011,CYP,Cyprus,G,N,P,9
+2011,CZE,Czechia,G,N,P,152
+2011,DNK,Denmark,G,N,P,19
+2011,FIN,Finland,G,N,P,9
+2011,FRA,France,G,N,P,91
+2011,FRA,France,G,N,P,10
+2011,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,13
+2011,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,48
+2011,DEU,Germany,G,N,P,44
+2011,DEU,Germany,G,R,P,10
+2011,GRC,Greece,G,N,P,31
+2011,HRV,Croatia,G,N,P,6
+2011,HUN,Hungary,G,R,P,5
+2011,IRL,Ireland,G,A,P,5
+2011,IRL,Ireland,G,N,P,9
+2011,IRL,Ireland,G,SP,P,5
+2011,ITA,Italy,G,N,P,18
+2011,LVA,Latvia,G,N,P,5
+2011,NLD,Netherlands,G,N,P,38
+2011,NLD,Netherlands,G,R,P,12
+2011,NOR,Norway,G,N,P,10
+2011,NOR,Norway,G,N,P,16
+2011,POL,Poland,G,N,P,43
+2011,POL,Poland,G,R,P,24
+2011,PRT,Portugal,G,N,P,6
+2011,ROU,Romania,G,R,P,6
+2011,RUS,Russian Federation,G,N,P,11
+2011,RUS,Russian Federation,G,R,P,5
+2011,ESP,Spain,G,N,P,12
+2011,SVK,Slovakia,G,N,C,8
+2011,SVN,Slovenia,G,R,P,7
+2011,SWE,Sweden,G,N,P,121
+2011,SWE,Sweden,G,N,P,194
+2011,CHE,Switzerland,G,N,P,23
+2011,USA,United States of America,G,A,P,84
+2011,USA,United States of America,G,N,C,234
+2012,ARG,Argentina,G,N,P,6
+2012,AUS,Australia,G,A,C,15
+2012,AUS,Australia,G,N,P,16
+2012,AUT,Austria,G,NA,P,79
+2012,BEL,Belgium,G,N,P,73
+2012,BEL,Belgium,G,R,P,16
+2012,BLR,Belarus,G,N,P,5
+2012,BGR,Bulgaria,G,NR,P,5
+2012,BGR,Bulgaria,G,R,P,5
+2012,CAN,Canada,G,N,P,178
+2012,CYP,Cyprus,G,A,P,5
+2012,CYP,Cyprus,G,N,P,5
+2012,CZE,Czechia,G,N,P,174
+2012,DNK,Denmark,G,N,P,15
+2012,FIN,Finland,G,N,P,16
+2012,FRA,France,G,A,P,65
+2012,FRA,France,G,N,P,129
+2012,FRA,France,G,R,P,16
+2012,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,13
+2012,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,57
+2012,DEU,Germany,G,N,P,124
+2012,DEU,Germany,G,R,P,11
+2012,GRC,Greece,G,N,P,43
+2012,HRV,Croatia,G,N,P,5
+2012,HUN,Hungary,G,R,P,5
+2012,IRL,Ireland,G,A,P,11
+2012,IRL,Ireland,G,N,P,14
+2012,ITA,Italy,G,N,P,37
+2012,LIE,Liechtenstein,G,N,P,9
+2012,LTU,Lithuania,G,N,P,5
+2012,LUX,Luxembourg,G,N,P,5
+2012,NLD,Netherlands,G,N,P,25
+2012,NLD,Netherlands,G,R,P,7
+2012,NOR,Norway,G,N,P,26
+2012,NOR,Norway,G,N,P,31
+2012,POL,Poland,G,A,P,17
+2012,POL,Poland,G,N,P,58
+2012,POL,Poland,G,R,P,14
+2012,PRT,Portugal,G,N,P,5
+2012,RUS,Russian Federation,G,N,P,11
+2012,ESP,Spain,G,N,P,21
+2012,SVK,Slovakia,G,N,P,7
+2012,SVN,Slovenia,G,N,P,5
+2012,SWE,Sweden,G,N,P,133
+2012,CHE,Switzerland,G,A,P,16
+2012,CHE,Switzerland,G,N,P,26
+2012,USA,United States of America,G,N,C,274
+2013,ARG,Argentina,G,N,P,5
+2013,AUS,Australia,G,A,C,5
+2013,AUS,Australia,G,N,P,11
+2013,AUT,Austria,G,NR,P,64
+2013,BEL,Belgium,G,N,P,36
+2013,BEL,Belgium,G,R,P,29
+2013,BLR,Belarus,G,N,P,5
+2013,CAN,Canada,G,N,P,67
+2013,CZE,Czechia,G,N,P,68
+2013,CZE,Czechia,G,R,P,78
+2013,DNK,Denmark,G,A,P,21
+2013,DNK,Denmark,G,N,P,38
+2013,FIN,Finland,G,N,P,5
+2013,FRA,France,G,A,P,66
+2013,FRA,France,G,N,P,122
+2013,FRA,France,G,R,P,15
+2013,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,5
+2013,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,74
+2013,DEU,Germany,G,N,P,141
+2013,DEU,Germany,G,R,P,11
+2013,GRC,Greece,G,A,P,18
+2013,GRC,Greece,G,N,P,22
+2013,HUN,Hungary,G,N,P,7
+2013,IRL,Ireland,G,A,P,5
+2013,IRL,Ireland,G,N,P,9
+2013,IRL,Ireland,G,N,P,6
+2013,ISR,Israel,G,N,P,5
+2013,ITA,Italy,G,N,P,34
+2013,LTU,Lithuania,G,N,P,5
+2013,NLD,Netherlands,G,N,P,36
+2013,NLD,Netherlands,G,N,P,5
+2013,NOR,Norway,G,A,P,28
+2013,NOR,Norway,G,N,P,24
+2013,POL,Poland,G,N,P,32
+2013,POL,Poland,G,R,P,9
+2013,ROU,Romania,G,N,P,11
+2013,ZAF,South Africa,G,N,P,5
+2013,RUS,Russian Federation,G,N,P,13
+2013,RUS,Russian Federation,G,N,P,6
+2013,ESP,Spain,G,N,P,14
+2013,SVK,Slovakia,G,N,P,5
+2013,SVK,Slovakia,G,R,P,9
+2013,SWE,Sweden,G,A,P,60
+2013,SWE,Sweden,G,N,P,173
+2013,CHE,Switzerland,G,A,P,19
+2013,CHE,Switzerland,G,N,P,30
+2013,CHE,Switzerland,G,R,P,11
+2013,USA,United States of America,G,N,P,47
+2013,USA,United States of America,G,N,C,359
+2014,ARG,Argentina,G,N,P,86
+2014,ARM,Armenia,G,N,P,116
+2014,AUS,Australia,G,A,C,8
+2014,AUS,Australia,G,N,P,56
+2014,AUT,Austria,G,N,P,455
+2014,AZE,Azerbaijan,G,N,P,69
+2014,AZE,Azerbaijan,U,N,P,12
+2014,BEL,Belgium,G,N,P,481
+2014,BEL,Belgium,G,A,C,51
+2014,BEL,Belgium,G,R,P,84
+2014,BLR,Belarus,G,N,P,663
+2014,BRA,Brazil,G,N,P,18
+2014,BGR,Bulgaria,G,N,P,41
+2014,CAN,Canada,G,N,P,360
+2014,CHL,Chile,G,N,P,5
+2014,CRI,Costa Rica,G,N,P,8
+2014,CYP,Cyprus,G,N,P,93
+2014,CZE,Czechia,G,N,P,417
+2014,CZE,Czechia,G,R,P,98
+2014,DNK,Denmark,G,A,P,9
+2014,DNK,Denmark,G,N,P,132
+2014,EST,Estonia,G,N,P,55
+2014,FJI,Fiji,J,N,P,6
+2014,FIN,Finland,G,N,P,302
+2014,FRA,France,G,A,P,101
+2014,FRA,France,G,N,P,1396
+2014,FRA,France,G,A,P,10
+2014,FRA,France,G,R,P,28
+2014,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,34
+2014,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,275
+2014,GBR,United Kingdom of Great Britain and Northern Ireland,G,R,P,5
+2014,GEO,Georgia,G,N,P,419
+2014,DEU,Germany,G,N,P,2657
+2014,DEU,Germany,G,R,P,46
+2014,GRC,Greece,G,A,P,42
+2014,GRC,Greece,G,N,P,111
+2014,HRV,Croatia,G,N,P,11
+2014,HUN,Hungary,G,N,P,35
+2014,ISL,Iceland,G,N,P,15
+2014,IND,India,U,N,P,10
+2014,IRL,Ireland,G,A,P,18
+2014,IRL,Ireland,G,N,P,49
+2014,IRL,Ireland,G,N,P,5
+2014,ITA,Italy,G,N,P,2075
+2014,ITA,Italy,G,R,P,7
+2014,KAZ,Kazakhstan,G,A,P,21
+2014,KAZ,Kazakhstan,G,N,P,92
+2014,KGZ,Kyrgyzstan,G,N,P,18
+2014,KOR,Republic of Korea,G,N,P,8
+2014,LBN,Lebanon,U,N,P,5
+2014,LIE,Liechtenstein,G,N,P,5
+2014,LTU,Lithuania,G,N,P,67
+2014,LUX,Luxembourg,G,N,P,23
+2014,LVA,Latvia,G,N,P,75
+2014,MDA,Republic of Moldova,G,N,P,134
+2014,MEX,Mexico,G,N,P,9
+2014,MLT,Malta,G,N,P,38
+2014,NLD,Netherlands,G,N,P,249
+2014,NLD,Netherlands,G,R,P,18
+2014,NOR,Norway,G,A,P,81
+2014,NOR,Norway,G,N,P,131
+2014,NZL,New Zealand,G,N,P,7
+2014,PER,Peru,G,N,P,5
+2014,POL,Poland,G,A,P,243
+2014,POL,Poland,G,N,P,2109
+2014,POL,Poland,G,R,P,159
+2014,PRT,Portugal,G,N,P,157
+2014,ROU,Romania,G,N,P,34
+2014,ZAF,South Africa,G,N,P,8
+2014,RUS,Russian Federation,G,N,P,5789
+2014,RUS,Russian Federation,G,N,P,265448
+2014,ESP,Spain,G,N,P,946
+2014,SRB,Serbia,G,N,P,7
+2014,SVK,Slovakia,G,N,P,18
+2014,SVK,Slovakia,G,R,P,6
+2014,SVN,Slovenia,G,N,P,16
+2014,SWE,Sweden,G,A,P,200
+2014,SWE,Sweden,G,N,P,1278
+2014,SWE,Sweden,G,R,P,41
+2014,CHE,Switzerland,G,N,P,199
+2014,CHE,Switzerland,G,R,P,9
+2014,USA,United States of America,G,N,P,69
+2014,USA,United States of America,G,N,C,1217
+2015,ALB,Albania,G,N,P,5
+2015,ARG,Argentina,G,N,P,106
+2015,ARM,Armenia,G,N,P,93
+2015,AUS,Australia,G,A,C,17
+2015,AUS,Australia,G,N,P,28
+2015,AUT,Austria,G,N,P,481
+2015,AUT,Austria,G,R,P,27
+2015,AZE,Azerbaijan,G,N,P,33
+2015,AZE,Azerbaijan,U,N,P,10
+2015,BEL,Belgium,G,N,P,369
+2015,BEL,Belgium,G,A,C,163
+2015,BEL,Belgium,G,R,P,65
+2015,BLR,Belarus,G,N,P,978
+2015,BLR,Belarus,G,A,P,11
+2015,BRA,Brazil,G,N,P,31
+2015,BGR,Bulgaria,G,N,P,63
+2015,CAN,Canada,G,A,P,97
+2015,CAN,Canada,G,N,P,389
+2015,CRI,Costa Rica,G,N,P,6
+2015,CYP,Cyprus,G,N,P,70
+2015,CZE,Czechia,G,N,P,568
+2015,CZE,Czechia,G,R,P,126
+2015,DNK,Denmark,G,A,P,50
+2015,DNK,Denmark,G,N,P,97
+2015,DOM,Dominican Republic,G,N,P,5
+2015,EST,Estonia,G,N,P,90
+2015,FIN,Finland,G,N,P,67
+2015,FIN,Finland,G,R,P,7
+2015,FRA,France,G,A,P,659
+2015,FRA,France,G,N,P,1623
+2015,FRA,France,G,A,P,24
+2015,FRA,France,G,R,P,28
+2015,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,58
+2015,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,252
+2015,GBR,United Kingdom of Great Britain and Northern Ireland,G,R,P,5
+2015,GEO,Georgia,G,N,P,404
+2015,GEO,Georgia,G,J,P,5
+2015,DEU,Germany,G,N,P,4569
+2015,DEU,Germany,G,R,P,89
+2015,GRC,Greece,G,A,P,120
+2015,GRC,Greece,G,N,P,220
+2015,GRC,Greece,G,R,P,7
+2015,HRV,Croatia,G,N,P,9
+2015,HRV,Croatia,G,J,P,6
+2015,HUN,Hungary,G,N,P,27
+2015,ISL,Iceland,G,N,P,8
+2015,IND,India,U,N,P,11
+2015,IRL,Ireland,G,A,P,33
+2015,IRL,Ireland,G,N,P,47
+2015,IRL,Ireland,G,A,P,8
+2015,IRL,Ireland,G,N,P,5
+2015,ISR,Israel,G,N,P,703
+2015,ITA,Italy,G,N,P,4681
+2015,JOR,Jordan,U,N,P,22
+2015,JPN,Japan,G,N,P,20
+2015,KAZ,Kazakhstan,G,A,P,9
+2015,KAZ,Kazakhstan,G,N,P,16
+2015,KGZ,Kyrgyzstan,G,N,P,19
+2015,KOR,Republic of Korea,G,N,P,18
+2015,KWT,Kuwait,U,N,P,5
+2015,LIE,Liechtenstein,G,N,P,17
+2015,LKA,Sri Lanka,U,N,P,5
+2015,LTU,Lithuania,G,N,P,65
+2015,LUX,Luxembourg,G,A,P,5
+2015,LUX,Luxembourg,G,N,P,29
+2015,LVA,Latvia,G,N,P,47
+2015,MRT,Mauritania,U,N,P,5
+2015,MDA,Republic of Moldova,G,N,P,123
+2015,MDA,Republic of Moldova,G,J,P,22
+2015,MEX,Mexico,G,N,P,7
+2015,MNE,Montenegro,G,N,P,13
+2015,MLT,Malta,G,N,P,71
+2015,NLD,Netherlands,G,N,P,716
+2015,NLD,Netherlands,G,R,P,39
+2015,NOR,Norway,G,A,P,70
+2015,NOR,Norway,G,N,P,90
+2015,PER,Peru,G,N,P,7
+2015,POL,Poland,G,N,P,1591
+2015,POL,Poland,G,R,P,704
+2015,PRT,Portugal,G,N,P,366
+2015,ROU,Romania,G,N,P,37
+2015,ROU,Romania,G,R,P,5
+2015,ZAF,South Africa,G,N,P,7
+2015,RUS,Russian Federation,G,N,P,293
+2015,RUS,Russian Federation,G,N,P,148849
+2015,ESP,Spain,G,N,P,3420
+2015,SRB,Serbia,G,N,P,11
+2015,SVK,Slovakia,G,N,P,14
+2015,SVK,Slovakia,G,R,P,11
+2015,SVN,Slovenia,G,N,P,14
+2015,SWE,Sweden,G,A,P,478
+2015,SWE,Sweden,G,N,P,1320
+2015,SWE,Sweden,G,R,P,84
+2015,CHE,Switzerland,G,N,P,236
+2015,CHE,Switzerland,G,R,P,7
+2015,USA,United States of America,G,N,P,90
+2015,USA,United States of America,G,N,C,2111
+2016,ARG,Argentina,G,N,P,67
+2016,ARM,Armenia,G,N,P,8
+2016,AUS,Australia,G,A,P,19
+2016,AUS,Australia,G,N,P,30
+2016,AUT,Austria,G,N,P,339
+2016,BEL,Belgium,G,N,P,126
+2016,BEL,Belgium,G,A,C,77
+2016,BEL,Belgium,G,R,P,60
+2016,BLR,Belarus,G,N,P,631
+2016,BLR,Belarus,G,A,P,5
+2016,BRA,Brazil,G,N,P,9
+2016,BGR,Bulgaria,G,N,P,18
+2016,BGR,Bulgaria,G,R,P,6
+2016,CAN,Canada,G,N,P,275
+2016,CYP,Cyprus,G,N,P,25
+2016,CZE,Czechia,G,N,P,357
+2016,CZE,Czechia,G,R,P,150
+2016,DNK,Denmark,G,A,P,51
+2016,DNK,Denmark,G,N,P,96
+2016,EST,Estonia,G,N,P,7
+2016,FIN,Finland,G,N,P,56
+2016,FIN,Finland,G,R,P,9
+2016,FRA,France,G,A,P,634
+2016,FRA,France,G,N,P,534
+2016,FRA,France,G,A,P,79
+2016,FRA,France,G,R,P,124
+2016,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,49
+2016,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,127
+2016,GBR,United Kingdom of Great Britain and Northern Ireland,G,R,P,9
+2016,GEO,Georgia,G,N,P,54
+2016,DEU,Germany,G,N,P,2389
+2016,DEU,Germany,G,R,P,104
+2016,GRC,Greece,G,A,P,68
+2016,GRC,Greece,G,N,P,114
+2016,GRC,Greece,G,R,P,8
+2016,HRV,Croatia,G,N,P,5
+2016,HRV,Croatia,G,J,P,7
+2016,HUN,Hungary,G,N,P,20
+2016,HUN,Hungary,G,R,P,5
+2016,ISL,Iceland,G,N,P,11
+2016,IND,India,U,A,P,5
+2016,IND,India,U,N,P,6
+2016,IRL,Ireland,G,A,P,28
+2016,IRL,Ireland,G,N,P,20
+2016,IRL,Ireland,G,N,P,8
+2016,ISR,Israel,G,N,P,6880
+2016,ITA,Italy,G,N,P,2571
+2016,JOR,Jordan,U,N,P,5
+2016,KGZ,Kyrgyzstan,G,N,P,5
+2016,KOR,Republic of Korea,G,N,P,5
+2016,LBN,Lebanon,U,N,P,5
+2016,LIE,Liechtenstein,G,N,P,12
+2016,LKA,Sri Lanka,U,N,P,5
+2016,LTU,Lithuania,G,N,P,28
+2016,LUX,Luxembourg,G,A,P,5
+2016,LUX,Luxembourg,G,N,P,32
+2016,LVA,Latvia,G,N,P,6
+2016,MDA,Republic of Moldova,G,N,P,41
+2016,MDA,Republic of Moldova,G,J,P,6
+2016,MNE,Montenegro,G,N,P,5
+2016,MLT,Malta,G,N,P,85
+2016,NLD,Netherlands,G,N,P,323
+2016,NLD,Netherlands,G,R,P,29
+2016,NOR,Norway,G,A,P,33
+2016,NOR,Norway,G,N,P,23
+2016,PAN,Panama,G,N,P,5
+2016,PER,Peru,G,N,P,7
+2016,POL,Poland,G,A,P,605
+2016,POL,Poland,G,N,P,589
+2016,PRT,Portugal,G,N,P,141
+2016,ROU,Romania,G,N,P,10
+2016,RUS,Russian Federation,G,N,P,271
+2016,RUS,Russian Federation,G,N,P,23263
+2016,ESP,Spain,G,N,P,2764
+2016,SVK,Slovakia,G,N,P,15
+2016,SVK,Slovakia,G,R,P,10
+2016,SWE,Sweden,G,A,P,1179
+2016,SWE,Sweden,G,N,P,544
+2016,SWE,Sweden,G,R,P,58
+2016,CHE,Switzerland,G,N,P,85
+2016,CHE,Switzerland,G,R,P,11
+2016,URY,Uruguay,G,N,P,5
+2016,USA,United States of America,G,N,P,123
+2016,USA,United States of America,G,N,C,2227
+2017,ARG,Argentina,G,A,P,6
+2017,ARG,Argentina,G,N,P,22
+2017,ARM,Armenia,G,N,P,10
+2017,AUS,Australia,G,A,P,5
+2017,AUS,Australia,G,N,P,36
+2017,AUT,Austria,G,N,P,437
+2017,BEL,Belgium,G,R,P,45
+2017,BEL,Belgium,G,N,P,110
+2017,BLR,Belarus,G,N,P,626
+2017,BLR,Belarus,G,A,P,7
+2017,BRA,Brazil,G,N,P,12
+2017,BGR,Bulgaria,G,N,P,14
+2017,CAN,Canada,G,A,P,42
+2017,CAN,Canada,G,N,P,225
+2017,CYP,Cyprus,G,A,P,65
+2017,CYP,Cyprus,G,N,P,33
+2017,CYP,Cyprus,G,R,P,5
+2017,CZE,Czechia,G,N,P,297
+2017,CZE,Czechia,G,R,P,138
+2017,DNK,Denmark,G,A,P,29
+2017,DNK,Denmark,G,N,P,41
+2017,EST,Estonia,G,N,P,18
+2017,FIN,Finland,G,N,C,35
+2017,FIN,Finland,G,R,C,10
+2017,FRA,France,G,A,P,339
+2017,FRA,France,G,N,P,529
+2017,FRA,France,G,A,P,130
+2017,FRA,France,G,R,P,157
+2017,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,51
+2017,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,194
+2017,GBR,United Kingdom of Great Britain and Northern Ireland,G,R,P,6
+2017,GEO,Georgia,G,N,P,20
+2017,DEU,Germany,G,N,P,1088
+2017,DEU,Germany,G,R,P,240
+2017,GRC,Greece,G,A,P,60
+2017,GRC,Greece,G,N,P,81
+2017,GRC,Greece,G,R,P,5
+2017,HUN,Hungary,G,N,P,7
+2017,ISL,Iceland,G,A,P,7
+2017,ISL,Iceland,G,N,P,9
+2017,IND,India,U,A,P,5
+2017,IND,India,U,N,P,5
+2017,IRL,Ireland,G,A,P,14
+2017,IRL,Ireland,G,N,P,17
+2017,ISR,Israel,G,N,P,7711
+2017,ITA,Italy,G,N,P,2656
+2017,KGZ,Kyrgyzstan,G,N,P,9
+2017,KOR,Republic of Korea,G,N,P,20
+2017,LIE,Liechtenstein,G,N,P,8
+2017,LTU,Lithuania,G,N,P,33
+2017,LUX,Luxembourg,G,N,P,35
+2017,LVA,Latvia,G,N,P,6
+2017,MDA,Republic of Moldova,G,N,P,9
+2017,MDA,Republic of Moldova,G,J,P,17
+2017,MEX,Mexico,G,N,P,5
+2017,MNE,Montenegro,G,N,P,5
+2017,MLT,Malta,G,A,P,31
+2017,MLT,Malta,G,N,P,35
+2017,NLD,Netherlands,G,N,P,139
+2017,NLD,Netherlands,G,R,P,39
+2017,NOR,Norway,G,A,P,25
+2017,NOR,Norway,G,N,P,31
+2017,NOR,Norway,G,R,P,5
+2017,NZL,New Zealand,G,N,P,5
+2017,POL,Poland,G,A,P,513
+2017,POL,Poland,G,N,P,259
+2017,PRT,Portugal,G,N,P,125
+2017,ROU,Romania,G,N,P,11
+2017,RUS,Russian Federation,G,N,P,130
+2017,RUS,Russian Federation,G,N,P,11914
+2017,ESP,Spain,G,N,P,2312
+2017,SVK,Slovakia,G,N,P,9
+2017,SWE,Sweden,G,A,P,513
+2017,SWE,Sweden,G,N,P,461
+2017,SWE,Sweden,G,R,P,37
+2017,CHE,Switzerland,G,N,P,64
+2017,CHE,Switzerland,G,R,P,12
+2017,SYR,Syrian Arab Republic,U,A,P,5
+2017,USA,United States of America,G,N,P,227
+2017,USA,United States of America,G,N,C,1757
+2018,ARG,Argentina,G,N,P,19
+2018,ARM,Armenia,G,N,P,11
+2018,AUS,Australia,G,N,P,7
+2018,AUT,Austria,G,N,P,261
+2018,BEL,Belgium,G,N,P,90
+2018,BEL,Belgium,G,R,P,40
+2018,BLR,Belarus,G,N,P,761
+2018,BLR,Belarus,G,A,P,5
+2018,BRA,Brazil,G,N,P,7
+2018,BGR,Bulgaria,G,N,P,9
+2018,CAN,Canada,G,A,P,28
+2018,CAN,Canada,G,N,P,178
+2018,CYP,Cyprus,G,A,P,5
+2018,CYP,Cyprus,G,N,P,27
+2018,CYP,Cyprus,G,R,P,8
+2018,CZE,Czechia,G,N,P,279
+2018,CZE,Czechia,G,R,P,139
+2018,DNK,Denmark,G,A,P,19
+2018,DNK,Denmark,G,N,P,47
+2018,EST,Estonia,G,N,P,16
+2018,FIN,Finland,G,N,P,39
+2018,FIN,Finland,G,R,P,6
+2018,FRA,France,G,A,P,281
+2018,FRA,France,G,N,P,738
+2018,FRA,France,G,A,P,66
+2018,FRA,France,G,R,P,76
+2018,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,68
+2018,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,279
+2018,GBR,United Kingdom of Great Britain and Northern Ireland,G,R,P,7
+2018,GEO,Georgia,G,N,P,17
+2018,DEU,Germany,G,J,P,1315
+2018,DEU,Germany,G,N,P,1061
+2018,DEU,Germany,G,R,P,350
+2018,GRC,Greece,G,A,P,39
+2018,GRC,Greece,G,N,P,87
+2018,GRC,Greece,G,R,P,8
+2018,HRV,Croatia,G,N,P,5
+2018,ISL,Iceland,G,A,P,15
+2018,ISL,Iceland,G,N,P,32
+2018,IND,India,U,N,P,6
+2018,IRL,Ireland,G,A,P,29
+2018,IRL,Ireland,G,N,P,6
+2018,ISR,Israel,G,N,P,1765
+2018,ITA,Italy,G,N,P,2483
+2018,KGZ,Kyrgyzstan,G,N,P,7
+2018,KOR,Republic of Korea,G,N,P,60
+2018,LIE,Liechtenstein,G,N,P,10
+2018,LTU,Lithuania,G,N,P,15
+2018,LUX,Luxembourg,G,N,P,20
+2018,LVA,Latvia,G,N,P,5
+2018,MDA,Republic of Moldova,G,N,P,11
+2018,MDA,Republic of Moldova,G,J,P,5
+2018,MEX,Mexico,G,N,P,5
+2018,MLT,Malta,G,A,P,22
+2018,MLT,Malta,G,N,P,34
+2018,NLD,Netherlands,G,N,P,302
+2018,NLD,Netherlands,G,R,P,14
+2018,NOR,Norway,G,A,P,30
+2018,NOR,Norway,G,N,P,37
+2018,NOR,Norway,G,R,P,5
+2018,NZL,New Zealand,G,N,P,5
+2018,PER,Peru,G,N,P,5
+2018,POL,Poland,G,N,P,361
+2018,POL,Poland,G,N,P,225
+2018,PRT,Portugal,G,N,P,120
+2018,ROU,Romania,G,N,P,12
+2018,RUS,Russian Federation,G,N,P,55
+2018,RUS,Russian Federation,G,N,P,5822
+2018,ESP,Spain,G,N,P,2063
+2018,SVK,Slovakia,G,N,P,6
+2018,SVK,Slovakia,G,R,P,5
+2018,SWE,Sweden,G,N,P,503
+2018,SWE,Sweden,G,A,P,386
+2018,SWE,Sweden,G,R,P,39
+2018,CHE,Switzerland,G,N,P,49
+2018,CHE,Switzerland,G,R,P,12
+2018,USA,United States of America,G,A,P,668
+2018,USA,United States of America,G,N,P,197
+2018,USA,United States of America,G,N,C,727
+2019,ARG,Argentina,G,A,P,5
+2019,ARG,Argentina,G,N,P,9
+2019,AUS,Australia,G,N,P,48
+2019,AUT,Austria,G,N,P,221
+2019,BEL,Belgium,G,N,P,59
+2019,BEL,Belgium,G,R,P,17
+2019,BLR,Belarus,G,N,P,567
+2019,BRA,Brazil,G,N,P,17
+2019,BGR,Bulgaria,G,NR,P,6
+2019,CAN,Canada,G,A,P,36
+2019,CAN,Canada,G,N,P,106
+2019,CYP,Cyprus,G,N,P,24
+2019,CYP,Cyprus,G,R,P,8
+2019,CZE,Czechia,G,N,P,215
+2019,CZE,Czechia,G,R,P,96
+2019,DNK,Denmark,G,A,P,9
+2019,DNK,Denmark,G,N,P,34
+2019,EST,Estonia,G,N,P,7
+2019,FIN,Finland,G,N,C,19
+2019,FIN,Finland,G,R,C,5
+2019,FRA,France,G,A,P,283
+2019,FRA,France,G,N,P,1064
+2019,FRA,France,G,A,P,44
+2019,FRA,France,G,R,P,69
+2019,GBR,United Kingdom of Great Britain and Northern Ireland,G,A,C,71
+2019,GBR,United Kingdom of Great Britain and Northern Ireland,G,N,P,194
+2019,GEO,Georgia,G,N,P,6
+2019,DEU,Germany,G,N,P,1180
+2019,DEU,Germany,G,R,P,308
+2019,GRC,Greece,G,N,P,110
+2019,GRC,Greece,G,R,P,10
+2019,ISL,Iceland,G,A,P,23
+2019,ISL,Iceland,G,N,P,10
+2019,IRL,Ireland,G,A,P,11
+2019,IRL,Ireland,G,N,P,8
+2019,ISR,Israel,G,N,P,633
+2019,ITA,Italy,G,N,P,1769
+2019,KOR,Republic of Korea,G,N,P,29
+2019,LIE,Liechtenstein,G,N,P,5
+2019,LTU,Lithuania,G,N,P,13
+2019,LUX,Luxembourg,G,N,P,25
+2019,LVA,Latvia,G,N,P,12
+2019,MDA,Republic of Moldova,G,N,P,5
+2019,MDA,Republic of Moldova,G,J,P,5
+2019,MEX,Mexico,G,N,P,5
+2019,MLT,Malta,G,A,P,5
+2019,MLT,Malta,G,N,P,34
+2019,NLD,Netherlands,G,N,P,132
+2019,NLD,Netherlands,G,R,P,28
+2019,NOR,Norway,G,A,P,22
+2019,NOR,Norway,G,N,P,26
+2019,POL,Poland,G,A,P,251
+2019,POL,Poland,G,N,P,189
+2019,PRT,Portugal,G,N,P,80
+2019,ROU,Romania,G,N,P,18
+2019,RUS,Russian Federation,G,N,P,45
+2019,RUS,Russian Federation,G,N,P,6011
+2019,ESP,Spain,G,N,P,2383
+2019,SVK,Slovakia,G,N,P,11
+2019,SVK,Slovakia,G,R,P,5
+2019,SWE,Sweden,G,A,P,555
+2019,SWE,Sweden,G,N,P,831
+2019,SWE,Sweden,G,R,P,36
+2019,CHE,Switzerland,G,N,P,44
+2019,CHE,Switzerland,G,R,P,10
+2019,URY,Uruguay,G,N,P,5
+2019,USA,United States of America,G,A,P,593
+2019,USA,United States of America,G,N,P,250
+2019,USA,United States of America,G,N,C,469
